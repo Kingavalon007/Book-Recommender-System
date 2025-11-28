@@ -44,5 +44,4 @@ The project is modularized into specific stages of the machine learning pipeline
 ├── text_classification.ipynb   # Step 3: Using BART for Zero-shot genre classification
 ├── sentiment_analysis.ipynb    # Step 4: Using DistilRoBERTa for emotion extraction
 ├── app.py                      # Step 5: Main application script (Gradio UI)
-├── requirements.txt            # List of dependencies
 └── README.md                   # Project documentation
